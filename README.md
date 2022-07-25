@@ -6,6 +6,6 @@
 
 - The link of this project is given below:
 
-[Link of the project-3](https://project3-25722.netlify.app/)
+[![badges](https://img.shields.io/badge/Link-Project--3-blue)
+](https://project3-25722.netlify.app/)
 
-![badges](https://img.shields.io/badge/Project--3-site%20with%20Html%20and%20Css-blue)
