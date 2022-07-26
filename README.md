@@ -8,6 +8,7 @@
 
 - The link of this project is given below:
 
+<<<<<<< HEAD
 [![badges](https://img.shields.io/badge/Project--3-site%20with%20Html%20and%20Css-blue)](https://project3-25722.netlify.app/)
 
 ---
@@ -35,3 +36,8 @@ HTML, CSS
 ## Feedback
 
 - If you have any feedback, please reach me at lambawalay@gmail.com
+=======
+[![badges](https://img.shields.io/badge/Link-Project--3-blue)
+](https://project3-25722.netlify.app/)
+
+>>>>>>> 04a8a71a9b733aefc34cd70e2b53d36086b89e5a
