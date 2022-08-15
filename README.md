@@ -2,13 +2,13 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-3--4hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project3-25722.netlify.app/)
 
-# Project-3
+# law Home Page
 
-- This website is made with HTML and CSS to polish my skills in HTML and CSS. It took me 2-3hrs to make this page.There is no such major difficulty that i faced in making this project.
+- This is my **third** project made with HTML and CSS. It took me 2-3hrs to make this page.There is no such major difficulty that I faced in making this project but I learned a lot of little bit things while making this project as a beginner.
 
-- The link of this project is given below:
+- The live link of this project is given below:
 
-[![badges](https://img.shields.io/badge/Project--3-site%20with%20Html%20and%20Css-blue)](https://project3-25722.netlify.app/)
+[![badges](https://img.shields.io/badge/Project-with%20Html%20and%20Css-orange)](https://project3-25722.netlify.app/)
 
 ---
 
